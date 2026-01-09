@@ -50,7 +50,7 @@ The game continues until the user chooses to exit.
 ---
 
 ## 🖼 Application Screenshot
-![Application Screenshot]()
+![Application Screenshot](Rock-Paper-Scissors-Python/screenshot.png)
 
 ---
 
